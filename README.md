@@ -17,16 +17,16 @@ There are 3 main folders:
 To get started:
 
 1. Navigate to the `server` folder.
-1. Run `npm install`.
-1. Run `npm start`.
+1. Run `yarn install`.
+1. Run `yarn start`.
 
 This will start the GraphQL API server.
 
 In another Terminal window,
 
 1. Navigate to the `client` folder.
-1. Run `npm install`.
-1. Run `npm start`.
+1. Run `yarn install`.
+1. Run `yarn start`.
 
 This will open up `localhost:3000` in your web browser.
 
